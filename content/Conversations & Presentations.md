@@ -1,0 +1,56 @@
+**
+### Speaking Engagements & Moderation
+
+**“[The Path to Energy Abundance](https://lu.ma/gg2dbv23)”**
+March 2025, The Upwelling
+
+ **“A Starter Guide to the Austin Climate Ecosystem”**
+January 2025, Austin Climate Innovation 
+
+**“The Art of Living Metaphorically”**
+November 2024, Austin Learning Night
+
+**“[Climate Change: Challenges, Solutions, and Emerging Technologies​](https://www.austinforum.org/events/july-2-2024)”**
+July 2024, Austin Forum on Technology & Society
+
+**“Alternative, Experimental & Forgotten Ways of Storing and Transmitting Data”**  
+March 2024, Emergent Ventures Unconference
+
+**“The Rise, Fall, and Rebirth of Neon Signs”**
+April 2023, The SF Commons
+
+**“Using Metascience to Accelerate Progress in Climate Tech”**
+March 2023, [“Camp Califlorence” Climate Unconference](https://jasonbenn.com/community/califlorence-climate-reflections-and-takeaways)
+
+**“Empower Your Teams to be Data-Driven by Creating a Better Data Culture”**
+February 2019, American Airlines Startup Summit
+
+**“The Power of Collaboration in Data Journalism”**
+May 2018, The Associated Press Academy
+
+“Doing Data Together: Sharing Data and Insights for More Engaging Local Journalism”
+    
+
+Oct. 2017, The Online News Association
+
+- “Creating a Data Commons: Using Data for Cross-Newsroom Collaboration”                         Oct. 2017, The Online News Association
+    
+- “The Biggest Trends in Data: From the Stone Age to the Golden Age”                         June 2017, Predictive World
+    
+
+Guest Lectures
+
+- “Trends in Technology and Data Culture in Large Organizations”            
+    
+
+January 2019, General Assembly Data Science Bootcamp 
+
+- “Government Data Sources and Grassroots Data Collaboration”                           August 2017, General Assembly Data Science Bootcamp
+    
+- “Find, Understand, and Use Open Data”             July 2017, City University of New York, Graduate School of Journalism  
+    
+- “Citizen Data Science Communities and Collaborating with Open Data”                         May 2017, Georgia Tech
+    
+
+  
+**
