@@ -2,7 +2,6 @@
 title: James Gray
 draft: false
 ---
-**
 I’m James. Welcome to my personal website and digital garden - [here’s a playlist](https://open.spotify.com/playlist/0N4UO38g2AjRHKH69CLUen?si=778a1303cac74733) you can enjoy while you’re here.
 
 I like building things that address important problems. Recently, that’s manifested through my company [Seren Labs](https://www.serenlabs.io/) and [Bottlenecks Institute](https://www.bottlenecksinstitute.com/). I’m especially passionate about solving [[Climate Change]] and experimenting with ways to usher in a more agentic and abundant world. 
@@ -28,5 +27,4 @@ Some of my (many) interests: 
 - Running (solo or with [Artist Run Club](https://northern-southern.com/artist-run-club/)) & [lifting heavy things](https://www.barbellmedicine.com/training-programs/strength/)
 - Eating and cooking for friends & family, and sometimes with [Austin Supper Club](https://atxsupperclub.com/). [[Culinary interests & rabbitholes here]].
 
-P.S. You might be here because you’re looking for the director [James Gray](https://en.wikipedia.org/wiki/James_Gray_\(director\)), renowned computer scientist [Jim Gray](https://en.wikipedia.org/wiki/Jim_Gray_\(computer_scientist\)), or this [other James Gray](https://jamesgray.ai/) who also lives in Austin and works in data.**
-**
+P.S. You might be here because you’re looking for the director [James Gray](https://en.wikipedia.org/wiki/James_Gray_\(director\)), renowned computer scientist [Jim Gray](https://en.wikipedia.org/wiki/Jim_Gray_\(computer_scientist\)), or this [other James Gray](https://jamesgray.ai/) who also lives in Austin and works in data.
