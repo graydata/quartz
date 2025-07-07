@@ -3,7 +3,6 @@ I've always cared deeply about the natural world and our relationship to it, and
 
 I’m also passionate about building up the overall ecosystem of emerging climate & energy solutions, and I do that through my work with [ClimateTech Coffee](https://lu.ma/ClimateCoffeeATX?k=c&period=past) and the Texas Futures Coalition.
 
-*
 Some of my favorite writers/thinkers:
 **
 - [Arushi Sharma Frank](https://arushisharmafrank.substack.com/)
