@@ -1,10 +1,18 @@
 ![[climate_portrait.jpg]]
 I've always cared deeply about the natural world and our relationship to it, and my outlook around climate change fundamentally shifted after I read **How to Avoid a Climate Disaster**. It reframed addressing climate change as a litany of sacrifices we must endure (that are unlikely to be adopted at scale) to a series of engineering and R&D milestones that are challenging but achievable. And on the other side of solving these problems lies a different, better world than we had before. That belief led me to start [Seren Labs](https://www.serenlabs.io/) and the [Bottlenecks Institute](https://www.bottlenecksinstitute.com/).
 
-I’m also passionate about building up the overall ecosystem of emerging climate & energy solutions, and I do that through my work with [ClimateTech Coffee](https://lu.ma/ClimateCoffeeATX?k=c&period=past) and the Texas Futures Coalition.
+I’m also passionate about building up the overall ecosystem of emerging climate & energy solutions, and I do that through my work with [ClimateTech Coffee](https://lu.ma/ClimateCoffeeATX?k=c&period=past) and the Texas Futures Coalition. “Climate” covers a lot of sectors and ideas; I’m most interested in technologies and solutions related to energy, agriculture, manufacturing, and ways of measuring and managing climate change (methane, refrigerants, geoengineering, etc.).
+
+I think a lot about:
+
+- How to better steer funding towards the most promising ideas and projects (via philanthropy, private investment, and public financial support)
+- The social networks, shared public goods, and information ecosystems that surround emerging technology
+- Translating ideas from one domain to another, and getting actors to collaborate that typically don’t (or historically haven’t)
+- Applying the lessons and experiments from the modern metascience movement to problems in climate (see also: Metascience, Progress, and Abundance)
+- Various ways to increase the legibility, prestige, and salience of the most promising people and ideas in climate
+- Policy interventions to speed up deployment (permitting reform, interconnection queue reform, etc.)
 
 Some of my favorite writers/thinkers:
-**
 - [Arushi Sharma Frank](https://arushisharmafrank.substack.com/)
 - [Austin Vernon](https://austinvernon.site/)
 - [Ben James](https://www.benjames.io/) (especially his “climate molecules” series)
@@ -22,7 +30,6 @@ Some of my favorite writers/thinkers:
 - [Shayle Kann and his podcast "Catalyst"](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann)
 - [Tim Hammerich and his podcast “Future of Agriculture”](https://futureofagriculture.com/)
 - [Robinson Meyer and his podcast “Shift Key”](https://shows.acast.com/shift-key)
-**
 
 You might also be here because you’re new to Austin’s climate scene and I told you that I’d send you a list of things worth checking out. Here’s that list:
 
