@@ -1,11 +1,12 @@
 ### Podcasts
+[Expanding Ambition in Research with Josh Elliott of Renaissance Philanthropy](https://bottlenecksinstitute.substack.com/p/expanding-ambition-in-research-with)
 
-- [Expanding Ambition in Research with Josh Elliott of Renaissance Philanthropy](https://bottlenecksinstitute.substack.com/p/expanding-ambition-in-research-with)
-- [Refrigerant Management & Super Pollutants with Louis Potok of Recoolit](https://bottlenecksinstitute.substack.com/p/refrigerant-management-and-super)
-- [Jason Crawford on “The Problem-Solving Animal,” AI, and cultural pathways for progress](https://bottlenecksinstitute.substack.com/p/jason-crawford-on-the-problem-solving)
-- [Ocean-based carbon removal with Kimberly Gilbert of pHathom Technologies](https://bottlenecksinstitute.substack.com/p/ocean-based-carbon-removal-with-kimberly)
+[Refrigerant Management & Super Pollutants with Louis Potok of Recoolit](https://bottlenecksinstitute.substack.com/p/refrigerant-management-and-super)
+
+[Jason Crawford on “The Problem-Solving Animal,” AI, and cultural pathways for progress](https://bottlenecksinstitute.substack.com/p/jason-crawford-on-the-problem-solving)
+
+[Ocean-based carbon removal with Kimberly Gilbert of pHathom Technologies](https://bottlenecksinstitute.substack.com/p/ocean-based-carbon-removal-with-kimberly)
 ### Speaking Engagements & Moderation
-
 **“[The Path to Energy Abundance](https://lu.ma/gg2dbv23)”**
 March 2025, The Upwelling
 
@@ -27,21 +28,14 @@ April 2023, The SF Commons
 **“Using Metascience to Accelerate Progress in Climate Tech”**
 March 2023, [“Camp Califlorence” Climate Unconference](https://jasonbenn.com/community/califlorence-climate-reflections-and-takeaways)
 
-**“Empower Your Teams to be Data-Driven by Creating a Better Data Culture”**
+**“Creating a Better Data Culture”**
 February 2019, American Airlines Startup Summit
 
 **“The Power of Collaboration in Data Journalism”**
 May 2018, The Associated Press Academy
 
-“**Doing Data Together: Sharing Data and Insights for More Engaging Local Journalism”**
-October 2017, The Online News Association
-
  **“Creating a Data Commons: Using Data for Cross-Newsroom Collaboration”**
 October 2017, The Online News Association
- 
-**“The Biggest Trends in Data: From the Stone Age to the Golden Age”**
-June 2017, Predictive World
-
 ### Guest Lectures
  **“Trends in Technology and Data Culture in Large Organizations”**
 January 2019, General Assembly Data Science Bootcamp 
