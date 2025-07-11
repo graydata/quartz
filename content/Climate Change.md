@@ -8,7 +8,7 @@ I think a lot about:
 - How to better steer funding towards the most promising ideas and projects (via philanthropy, private investment, and public financial support)
 - The social networks, shared public goods, and information ecosystems that surround emerging technology
 - Translating ideas from one domain to another, and getting actors to collaborate that typically don’t (or historically haven’t)
-- Applying the lessons and experiments from the modern metascience movement to problems in climate (see also: Metascience, Progress, and Abundance)
+- Applying the lessons and experiments from the modern metascience movement to problems in climate (see also: [[Metascience, Progress, and Abundance]])
 - Various ways to increase the legibility, prestige, and salience of the most promising people and ideas in climate
 - Policy interventions to speed up deployment (permitting reform, interconnection queue reform, etc.)
 

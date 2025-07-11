@@ -6,7 +6,7 @@
 [Jason Crawford on “The Problem-Solving Animal,” AI, and cultural pathways for progress](https://bottlenecksinstitute.substack.com/p/jason-crawford-on-the-problem-solving)
 
 [Ocean-based carbon removal with Kimberly Gilbert of pHathom Technologies](https://bottlenecksinstitute.substack.com/p/ocean-based-carbon-removal-with-kimberly)
-### Speaking Engagements & Moderation
+### Speaking Engagements
 **“[The Path to Energy Abundance](https://lu.ma/gg2dbv23)”**
 March 2025, The Upwelling
 

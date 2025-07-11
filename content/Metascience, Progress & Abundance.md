@@ -9,10 +9,9 @@ Here’s a decidedly non-comprehensive “market map” of some of the people do
 - Kelvin Yu's and Anson Yu's "[Levers for Progress](https://www.leversforprogress.com/)" 
 - Sam Arbesman's Overedge Catalog
 - Convergent Research and their fantastic Gap Map
-- David Lang 
-- Experiment Foundation
+- David Lang and the Experiment Foundation
 - Homeworld Bio
-- SpecTech and Ben Reinhardt
+- Ben Reinhardt and Speculative Technologies  
 
 **Tech Trees**
 - Étienne Fortier-Dubois has some [great writing on tech trees](https://etiennefd.substack.com/p/in-defense-of-tech-trees) and recently released a fantastic [Historical Tech Tree](https://www.historicaltechtree.com/) project
