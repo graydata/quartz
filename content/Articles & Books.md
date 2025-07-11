@@ -32,7 +32,7 @@ While far from comprehensive, I've found these ideas meaningful or influential i
 
 **People I generally enjoy following/reading**
 - [Noah Smith](https://www.noahpinion.blog/)
-- [Gwern](http://gwern)
+- [Gwern](https://gwern)
 - [Dwarkesh Patel](https://www.dwarkesh.com/)
 - [Nabeel Qureshi](https://nabeelqu.substack.com/)
 - [Patrick Collison](https://patrickcollison.com/)
