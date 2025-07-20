@@ -10,6 +10,7 @@ While far from comprehensive, I've found these ideas meaningful or influential i
 - [The Secret of our Success](https://press.princeton.edu/books/paperback/9780691178431/the-secret-of-our-success?srsltid=AfmBOooRa1HqtEKp6LEARielN-dR4o3bUT2umwVLbLGTx_-q_9fJTrE0) - Joseph Henrich
 - [Metaphors We Live By](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html) - George Lakoff
 - [We Need a New Philosophy of Progress](https://bigthink.com/progress/a-new-philosophy-of-progress-jason-crawford/) -Jason Crawford
+- [The Art of Gathering](https://www.priyaparker.com/book-art-of-gathering) - Priya Parker
 
 **Talent**
 - [Where is talent optimized?](https://marginalrevolution.com/marginalrevolution/2018/01/where-is-talent-optimized.html?utm_source=pocket_saves) - Tyler Cowen via Marginal Revolution
@@ -30,6 +31,8 @@ While far from comprehensive, I've found these ideas meaningful or influential i
 - [We Rarely Lose Technology](https://www.hopefulmons.com/p/we-rarely-lose-technology) - Étienne Fortier-Dubois
 - [How to design a house to last 1000 years](https://www.construction-physics.com/p/how-to-design-a-house-to-last-1000) - Potter via Construction Physics
 
+You can see my list of abundance/metascience reading [[Metascience, Progress & Abundance|here]].
+
 **People I generally enjoy following/reading**
 - [Noah Smith](https://www.noahpinion.blog/)
 - [Gwern](https://gwern)
@@ -47,3 +50,4 @@ While far from comprehensive, I've found these ideas meaningful or influential i
 - [Ed Yong](https://buttondown.com/edyong209)
 - [Patrick O’Shaughnesy - Invest Like the Best](https://joincolossus.com/series/invest-like-the-best/) 
 - [Eli Dourado](https://www.elidourado.com/)
+
