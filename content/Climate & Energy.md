@@ -1,5 +1,5 @@
 ![[climate_portrait.jpg]]
-I've always cared deeply about the natural world and our relationship to it, and my outlook around climate change fundamentally shifted after I read **How to Avoid a Climate Disaster**. It reframed addressing climate change as a litany of sacrifices we must endure (that are unlikely to be adopted at scale) to a series of engineering and R&D milestones that are challenging but achievable. And on the other side of solving these problems lies a different, better world than we had before. That belief led me to start [Seren Labs](https://www.serenlabs.io/) and the [Bottlenecks Institute](https://www.bottlenecksinstitute.com/).
+I've always cared deeply about the natural world and our relationship to it, and my outlook around climate change fundamentally shifted after I read **How to Avoid a Climate Disaster**. It reframed addressing climate change as a litany of sacrifices we must endure (that are unlikely to be adopted at scale) to a series of engineering and R&D milestones that are challenging but achievable. And on the other side of solving these problems lies a different, better world than we had before. That belief led me to start [Seren Labs](https://www.serenlabs.io/) and the [Bottlenecks Institute](https://www.bottlenecksinstitute.com/), and spurred my interest and involvement in the [[Metascience, Progress & Abundance|progress and Abundance movement]].
 
 I’m also passionate about building up the overall ecosystem of emerging climate & energy solutions, and I do that through my work with [ClimateTech Coffee](https://lu.ma/ClimateCoffeeATX?k=c&period=past) and the Texas Futures Coalition. “Climate” covers a lot of sectors and ideas; I’m most interested in technologies and solutions related to energy, agriculture, manufacturing, and ways of measuring and managing climate change (methane, refrigerants, geoengineering, etc.).
 
@@ -30,6 +30,9 @@ Some of my favorite writers/thinkers:
 - [Shayle Kann and his podcast "Catalyst"](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann)
 - [Tim Hammerich and his podcast “Future of Agriculture”](https://futureofagriculture.com/)
 - [Robinson Meyer and his podcast “Shift Key”](https://shows.acast.com/shift-key)
+- [Walt Duflock](https://agtechalchemy.substack.com/)
+
+**I’m actively looking for more writers/podcasts of similar quality in agriculture, so if you have any please let me know!**
 
 You might also be here because you’re new to Austin’s climate scene and I told you that I’d send you a list of things worth checking out. Here’s that list:
 

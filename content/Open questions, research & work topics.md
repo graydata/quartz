@@ -1,0 +1,61 @@
+This is a list of open questions and ideas I've had over the years. Consider these as "stubs" for future research and/or work.
+
+**Topics related to Energy, Climate, and Agriculture**
+- One barrier for new agricultural technologies and startups is that farmers may not be comfortable trying something new (a chemical, seed strain, piece of equipment, etc.) until it has several thousands of acre-years of trial runs and data. One solution has been the development of test plots, which might be run by corporations, [universities](https://www.farmweeknow.com/environmental/u-of-i-establishes-one-of-largest-test-plots-in-country/article_5135201a-d0f6-11ee-94e1-9fdd93bf881b.html), government, or other ecosystem actors ([The Reservoir](https://reservoir.co/) is a good recent example). How might we translate that concept to other domains like manufacturing and energy? There are existing projects that help startups and corporations plug into infrastructure for testing and measurement (e.g. [Pecan Street](https://www.pecanstreet.org/), [FORGE](https://utahforge.com/), and national lab programs like [ARIES](https://www.nrel.gov/aries)); to what extent could we accelerate early-stage energy & manufacturing technologies if we scaled and expanded geographic coverage for publicly-accessible testing environments?
+- How are the latest innovations in human health being translated to the ag world and vice versa? How many conferences or other mechanisms exist for connecting veterinarians and doctors? See:
+	- [Pumps and Pipes](https://pumpsandpipes.org/) conference which brings together medical device developers and oil & gas engineers.
+	- [Monarch Initiative](https://monarchinitiative.org/) has a [project to map the ontology of human anatomical terms to animal anatomical terms](https://academic.oup.com/nar/article/52/D1/D938/7449493) as a way of finding research on rare diseases that had been studied in animals that could apply to humans.
+- Why did “[AGARDA](https://www.usda.gov/sites/default/files/documents/agarda-strategic-framework.pdf)” (ARPA for agriculture) fail in 2018, and how could we get that back on the table? The USDA doesn’t support emerging sectors and early-stage technology the way the DOE historically has.
+- How much faster could the interconnection process go if there was top-tier, open-source software for managing the process? There are also legitimately difficult studies that have to be run to analyze the impact of individual grid assets and their relationship to a cohort of new generation coming online - how much of that difficulty could be mitigated with better software or models? 
+- Mortgages don’t accurately reflect the impact that insulation has on the monthly finances for homeowners. How could we rectify that? Looks like there are “[Green Mortgages](https://sf.freddiemac.com/working-with-us/origination-underwriting/mortgage-products/greenchoice-mortgages?gad_source=1&gad_campaignid=22280932070&gbraid=0AAAAA-zONez_TIXDVz7at28T1HlUx7WB-&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQf1wdZkCcZA1UamQcW05n-B-A499vZQKGcAHQnK0JyfOmDFy7TxKbxoCIMIQAvD_BwE),” via Freddie Mac and the [UK has tried them](https://www.ukgbc.org/wp-content/uploads/2017/09/Lenders_Core_Report_1.pdf) but I’d like to understand how widespread they actually are and how well they work. Inspired by a conversation with [Jesse Peltan](https://x.com/JessePeltan).**
+
+**Topics related to Metascience, Abundance, and Progress**
+- “Unconference” as technology
+	- I’ve seen this model used more and more often, it seems to be both popular for attendees and a better mechanism of disseminating ideas than the “traditional” conference format - perhaps in part because it's simply more resistant to “marketing creep.” Is anyone studying the proliferation of this “technology” across different fields and/or formally measuring the effectiveness? Which fields would most benefit from this model? My suspicion is that it would be the sectors furthest from the silicon valley world (where it seemingly emerged from)
+- How could we dramatically reduce the cost for creating research facilities across different disciplines?
+- Have there been many major surveys of small-scale labs about the capital costs needed to get started and ongoing operational costs? Could help identify equipment that could exist as a shared asset, assets that could be 3D-printed at a much lower cost, etc. 
+	- Anecdotally, someone working in a biotech lab was recently looking into buying some simple tube racks/holders and Sony quoted them $6K. That person is going to 3D print some instead, but that takes time and effort away from their core research.
+- How do we increase prestige for funding high-risk, high-return projects?
+- Awards for funders that back risky and early-stage projects. Success or failure of the project isn’t a factor, it’s more about being bold
+- Are we getting better at cause prioritization & problem selection? What are all the formal methods (in the vein of Ed Boyden’s [tiling tree](https://conversationswithtyler.com/episodes/ed-boyden/) or the Effective Altruism & Open Philanthropy “[Importance, Tractability and Neglectedness” framework](https://80000hours.org/articles/problem-framework/)) that are in use today? What are the informal models & heuristics that important actors rely on (e.g. recommendations & referrals)?
+- How much progress is held back by lack of legibility?
+- What are the best proxies for recommendations, and how much of funding is currently recommendation-driven?
+- How much of human progress and AI progress is gated by tacit knowledge not being formalized?
+- Would it be worthwhile to incentivize researchers (by providing funding, as a condition for publication, etc.) to film remote interviews that document their process and equipment setup to better capture the other variables that generally aren’t formally documented?
+- “Universal Recommendations”
+	- People spend social capital and time asking for recommendations, and may neglect to pursue opportunities because they don’t want to ask too much of their recommendations
+	- On the flip side: giving recommendations takes time, and is “wasted” when the offer doesn’t materialize
+	- One reason hiring processes can drag on is because of time needed to schedule and arrange recommendation calls
+	- People may be bad at asking the right questions of referrals, and referrers may be bad at giving answers! 
+	- A "Universal Recommendation" could be an online repository where your recommendations would live in perpetuity and could be reused as needed
+- “Gearhalls” (Carnegie libraries for hardware)
+	- Three stories: Ground floor has a cafe/bar and gathering space, middle story is a workshop for members with rentable equipment, top story has a gallery/museum of inventions
+- How might we accelerate tech transfer from militaries to the private sector? GPS being a famous example; how many things aren’t actively in use or essential to maintaining military advantage but represent an outsize public benefit for the research to be made open to the public? 
+- “Engineers for America”
+	- Modeled after “Teach for America” but designed to ensure that rising academic talent gets a real-world sense of 
+	- Designed to address a market failure I’ve heard from several folks about hiring PhDs that have never worked in the private sector and how they have no idea how to make things actually work 
+- How much influence does “the canon” have upon the direction of a given field? How much can this be explicitly influenced?
+	- Inspired by recent conversations around the Silicon Valley canon, and an observation that “Seeing Like a State” skyrocketed in influence largely because the wife of an influential SV actor took a class by the book’s author.
+- What was the philosophy of science behind the Kerala school in India and the Chinese Tang dynasty? Which principles and incentives guided their process?
+- If we had a survey that ran for a thousand years, which questions would be most worth asking? Running list of ideas:
+	- What does your daily life look like? 
+	- What are the changes that you've witnessed in your life that have been most striking? 
+	- What do you want to say to the people who have meant something to you? What's the story of your family? 
+	- What's the most meaningful piece of media (e.g. book, music, etc.) you've ever consumed? 
+	- What's changed most in your lifetime? 
+	- What do you hope changes? 
+	- What changes were you least prepared for? 
+	- What values do you think are most important? 
+	- How much faster could venture funding deploy capital and/or make better decisions if TAM models were pooled or available for public use? Each firm winds up making their own approximations at the same thing, and the work is then discarded 
+
+- We should consider artists as amateur scientists and engineers and study their processes. This was inspired by three separate observations:
+	- A few years ago I heard a talk on the social conditions that make a community biolab successful (they were members of [Genspace](https://www.genspace.org/)) and the presenter mentioned that they had an artist with 0 formal biology or research experience come to the space and say “I want to cover an entire wall with mushrooms - can y’all help me figure out how to do that?”
+	- I occasionally meet up with the [Artist Run Club](https://northern-southern.com/artist-run-club/) and they start each run with a brief talk and Q&A with a local artist or gallery owner about one of their current exhibitions. A recurring theme is that the artists will talk about the technical problems they had to solve when developing a specific piece, and different experiments and DIY methods (and artist folk knowledge) they would employ along the way. 
+	- An artist friend once mentioned that she discovered adding dish soap to clay gave it ceramic-like properties but at a significantly lower cost than buying ceramic-clay
+    This all strongly reminds me of the golden era of amateur science and we just haven’t been considering it through that lens. My suspicion is that artists are developing novel processes and conducting untold thousands of experiments that would never normally get funding or that scientists would never think to try - what can we learn from them? I’d like to interview a few hundred artists working on mixed media and sculptures about the problems they had to solve while assembling their work, and then share the findings with the corresponding academic/research communities to see if there’s something novel that should be more formally studied and/or replicated.
+- “Safe Notes” for Tech Transfer
+- Nonprofit idea: organization dedicated to shifting cultural values around the prestige/value of changing your mind about something. Inspired by [Noah Smith’s piece](https://www.noahpinion.blog/p/i-owe-the-libertarians-an-apology) and Matt Yglesias writing along these lines.
+- Regrants for talent
+- More experimentation around national lab R&D translation. Currently we have things like LEEP. That’s a great program, but what else might we try?
+	- Example: Develop an LLM that sits on top of patent databases; corporate labs & VCs submit their interest areas or investment theses and it would return patents that might relate to it. Would help bridge the gap between the technical/nontechnical divide and also the sheer informational overload
+- Masters-level dissertations should be published by default. Even if not always useful or correct, there’s a good amount of heavily researched knowledge that never sees the light of day. Changing that would be relatively easy, I suspect.
