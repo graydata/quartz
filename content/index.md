@@ -6,7 +6,7 @@ I’m James. Welcome to my personal website and [digital garden](https://maggiea
 
 I like building things that address important problems. Recently, that’s manifested through my company [Seren Labs](https://www.serenlabs.io/) and [Bottlenecks Institute](https://www.bottlenecksinstitute.com/). I’m especially passionate about [[Climate & Energy|emerging energy & climate solutions]] and experimenting with ways to usher in a more agentic and abundant world. 
 
-Much of my work revolves around data (Seren Labs & data.world), investigating solutions to mismatches between supply and demand (data.world & [SpareFoot](https://www.sparefoot.com/)), and supporting emerging technology & early-stage companies (Seren Labs & Austin Technology Incubator).
+Much of my work revolves around data (Seren Labs & data.world), investigating solutions to mismatches between supply and demand (data.world & [SpareFoot](https://www.sparefoot.com/)), and supporting emerging technology & early-stage companies (Seren Labs & [Austin Technology Incubator](https://ati.utexas.edu/)).
 
 You can reach me over [Linkedin](https://www.linkedin.com/in/walter-james-gray/), [Twitter](https://x.com/JamesGrayVI), or at [lastname]wj@gmail.com
 

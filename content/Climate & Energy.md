@@ -11,6 +11,8 @@ I think a lot about:
 - Various ways to increase the legibility, prestige, and salience of the most promising people and ideas in climate
 - Policy interventions to speed up deployment (permitting reform, interconnection queue reform, etc.)
 
+You can see some more of my early research and ideas in the [[Open questions, research & work topics|open question section.]]
+
 Some of my favorite writers/thinkers:
 - [Arushi Sharma Frank](https://arushisharmafrank.substack.com/)
 - [Austin Vernon](https://austinvernon.site/)
