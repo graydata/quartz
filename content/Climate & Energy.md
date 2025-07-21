@@ -4,7 +4,6 @@ I've always cared deeply about the natural world and our relationship to it, and
 I’m also passionate about building up the overall ecosystem of emerging climate & energy solutions, and I do that through my work with [ClimateTech Coffee](https://lu.ma/ClimateCoffeeATX?k=c&period=past) and the Texas Futures Coalition. “Climate” covers a lot of sectors and ideas; I’m most interested in technologies and solutions related to energy, agriculture, manufacturing, and ways of measuring and managing climate change (methane, refrigerants, geoengineering, etc.).
 
 I think a lot about:
-
 - How to better steer funding towards the most promising ideas and projects (via philanthropy, private investment, and public financial support)
 - The social networks, shared public goods, and information ecosystems that surround emerging technology
 - Translating ideas from one domain to another, and getting actors to collaborate that typically don’t (or historically haven’t)
