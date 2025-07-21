@@ -4,7 +4,7 @@ draft: false
 ---
 I’m James. Welcome to my personal website and [digital garden](https://maggieappleton.com/garden-history) - [here’s a playlist](https://open.spotify.com/playlist/0N4UO38g2AjRHKH69CLUen?si=778a1303cac74733) you can enjoy while you’re here.
 
-I like building things that address important problems. Recently, that’s manifested through my company [Seren Labs](https://www.serenlabs.io/) and [Bottlenecks Institute](https://www.bottlenecksinstitute.com/). I’m especially passionate about solving [[Climate & Energy|Climate Change]] and experimenting with ways to usher in a more agentic and abundant world. 
+I like building things that address important problems. Recently, that’s manifested through my company [Seren Labs](https://www.serenlabs.io/) and [Bottlenecks Institute](https://www.bottlenecksinstitute.com/). I’m especially passionate about [[Climate & Energy|emerging energy & climate solutions]] and experimenting with ways to usher in a more agentic and abundant world. 
 
 Much of my work revolves around data (Seren Labs & data.world), investigating solutions to mismatches between supply and demand (data.world & [SpareFoot](https://www.sparefoot.com/)), and supporting emerging technology & early-stage companies (Seren Labs & Austin Technology Incubator).
 
